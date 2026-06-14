@@ -1,0 +1,15 @@
+{
+  "appId": "com.snafuclipmaker.app",
+  "appName": "SNAFU Clip Maker",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#667eea"
+    }
+  }
+}
